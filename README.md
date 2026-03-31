@@ -3,8 +3,6 @@
 
 ## Project Links
 * **YouTube Demonstration:** 
-* **GitHub Repository:** 
-
 ---
 
 ## Project Overview
