@@ -1,4 +1,4 @@
-  # Team Falcon - KFUPM: Autonomous Taxi & Perception System
+  # Team Falcon - KFUPM
 **Quanser ACC 2026 - Virtual Stage Submission**
 
 ## Project Links
