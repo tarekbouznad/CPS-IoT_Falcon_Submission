@@ -10,9 +10,9 @@ Our team has developed the perception + Main finite state machine and logic for 
 
 ---
 
-## 🛠️ Core Principles of Self-Driving
+## Core Principles
 
-### 1. Data Collection & Interpretation
+### 1. Perception
 We combine RGB imagery and Depth maps from the realsense on the qcar.
 * **Perception:** `getObjectDepthClass` block processes raw YOLOv4 bounding boxes and RealSense depth data.
 * **Depth Extraction:**We extract the detected object to calculate the `distance_to_object`.
