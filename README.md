@@ -15,7 +15,7 @@ Our team has developed the perception + Main finite state machine and logic for 
 ### 1. Perception
 We combine RGB imagery and Depth maps from the realsense on the qcar.
 * **Perception:** `getObjectDepthClass` block processes raw YOLOv4 bounding boxes and RealSense depth data.
-* **Depth Extraction:**We extract the detected object to calculate the `distance_to_object`.
+* **Depth Extraction:** We extract the detected object to calculate the `distance_to_object`.
 
 ### 2. Localization and Path Planning
 The car navigates a global map consisting of **26 predefined nodes** (ID 0-25).
