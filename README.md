@@ -2,7 +2,7 @@
 **Quanser ACC 2026 - Virtual Stage Submission**
 
 ## Project Links
-* **YouTube Demonstration:** 
+* **YouTube Demonstration:** https://youtu.be/LrqUE5EChg8
 ---
 
 ## Project Overview
