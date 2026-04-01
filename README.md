@@ -44,7 +44,3 @@ The  perception code identifies the most confident detection and validates its p
 
 ### The Mission FSM (`Main_FSM`)
 The state machine utilizes persistent variables to track mission progress (`arrived1`, `arrived8`, etc.) and perception timers. It includes a **Startup Speed Profile** to allow sensors to initialize before entering the high-speed mission states.
-
----
-
-**Note to Judges:** *This project does not utilize `qvl` library functions for direct car control. All navigation and interpretation are handled through the algorithmic logic provided in the attached Simulink models.*
